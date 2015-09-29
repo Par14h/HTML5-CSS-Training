@@ -1,0 +1,40 @@
+<!DOCTYPE> 
+    <html>
+        <head>
+            <title>
+            Ongoing Projects Page
+            </title>
+        </head>
+        <body>
+			<p><h1>
+		        Welcome!
+			</h1></p>
+			<p>
+			Hey, Thanks for stopping by!  I'm Matthew and this is my 'noClue' website.  I call it 'noClue" because I really haven't the foggiest idea what I'm going to do with it.
+			</p>
+			<p><h3>
+				Why write it?
+			</h3></p>
+			<p>
+			It all started while I...  Well, no that's not right. IF I start from the beginning like that the story will become too long ans go stale before it gets juicy.  Let's try that again.
+			</p>
+			<p>
+			It started all again at my daughter's birthday party.  A friend had just finished being a pilot student for a <a href = "http://rubyonrails.org/">Ruby on Rails </a> (RoR) course at <a href = "http://http://theironyard.com/">The Iron Yard</a>  and she was speaking raves about the experience.  Since I'm generally depressed with both my current job and my extensively long track record of horrible (if not self-destructive) life choices I decided to follow her advice and de-rust my HTML skillz and bone up for some RoR training.  This page is the example exercise of the second lesson in the HTML " &amp " CSS course on <a href = "http://www.codeacademy.com">Code Academy</a>.  Personally, I think it's coming along quite nicely.  
+			</p>
+			<p><h3>
+				What's the goal?
+			</h3></p>
+			The first step is solving any problem is to acknowledge it  exists. Once the problem is acknowledged, the next trick is to define it.  Once it's defined, you quantify the hell out of it, break it up into manageable bits and then solve the bits.
+			</p>
+			<p>It's NEVER as easy as it sounds.</p>
+			<p>
+			Well, my problem, that I'm addressing in this project, is that I'm in what appears to be a dead-end job that is part of a Going-Nowhere career. I'm a 43 year old obese male working as a Tier I Technical support agent in an outsourced call center.  I really like the place I work.  I work with a reasonably good caliber of people, Upper management has their collective head on straight for the most part and lower management, well, They're trying really hard. The things that keep me there the most is the offices proximity to my daughters school and the fact hat they don't have a problem if I have to bring her in and put her in the breakroom all day while I work a shift.  As a divorced father, that alone is worth my weight in gold.  THe downsides, are I'm stuck in the cube farm, a proverbial cow in a box, helping people whose careers and livlihoods rely and depend on the use of computers but who don't care enough to learn how to use them (much less, use them effectively).  It's not all the fault of the callers.  A lot of it rests on the shoulders of the clients themselves who don't want to pay for a computers 101 class and refuse to invest in an infrastructure that actually works for them as opposed to just works.  I'm also one and a half times the average age of my peers. I'm chained and collared by the knowledge base that is designed to give agentrs like me the procedures needed to resolve the callers technical issues. Sure, 85% of the time the KB is fine, but the remainder requires escalation to Tier 2 and NONE of that last 15% allows for the parts of Tech Support that I'm good at:  Thinking outside the box and <i>finding</i> the solution.
+			</p>
+			<p>
+			Recently, I was given the Golden Ticket.  I was deployed to one of our clients who needed an extra person to fill in a void left by a recently departed employee.  So, for anywhere from one to four weeks I'll be working as a Tier II agent dedicated to a client, and I'm in Job heaven.  I'm an (outside) member of a team who not only participates in meetings, but actually contributes to and carries responsibilities for.  I'm still an outside member because I'm still a temp and am kept at arms reach, but the training that's getting sunk into me does lead me to suspect this assignment may be considerably longer than four weeks.  My ex-wife comments on how confident I am and how much happier I am  here on deployment.  I honestly don't want to go back to my cube.  I finally work where I have no walls, around my desk or my mind.  If I have to go back, It will be like falling from heaven.
+			</p>
+			<p>
+			So, The problem is now acknowledged and identified.  I'm temporarily elevated to a higher position that I'm really motivated to not return to.
+			</p>
+		</body>
+    </html>
